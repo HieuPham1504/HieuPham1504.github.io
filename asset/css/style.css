@@ -121,7 +121,7 @@ body{
     background-color: #081B27;
     z-index: 2;
     transform: translateX(100%);
-    transition: transform linear 0.5s;
+    transition: transform linear 0.2s;
     
 }
 
